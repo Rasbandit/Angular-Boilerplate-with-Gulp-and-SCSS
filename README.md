@@ -1,6 +1,6 @@
 # Angular Boilerplate with ui-router, Gulp, and SCSS
 
-This repository is a set up for an Angular single page site. There is already a file structure setup in the development folder that gulp will use to compile and compress your code and move to and create a distribution folder. The node server is set up ready to connect to an SQL database using massive.
+This repository is a set up for an Angular single page site. There is already a file structure setup in the development folder that gulp will use to compile and compress your code and move to and create a distribution folder. The node server is set up ready to connect to an SQL database using massive
 
 ## Installing
 
